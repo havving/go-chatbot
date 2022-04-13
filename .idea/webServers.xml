@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="565b9adc-5d93-474e-9563-f2fb13ffb2d6" name="chatbot">
+        <fileTransfer rootFolder="/home/heybin/chatbot" accessType="SFTP" host="100.102.193.84" port="22" sshConfigId="27234a32-7da8-44e3-8aaa-bb0a9ea79277" sshConfig="heybin@100.102.193.84:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
